@@ -6,7 +6,7 @@ Create CodeBuild service role and policy.
 https://docs.aws.amazon.com/codebuild/latest/userguide/setting-up.html#setting-up-service-role
 
 
-EC2 User Data Script to install CodeDeploy Agent.
+EC2 User Data Script to install the CodeDeploy Agent.
 
 #!/bin/bash
 sudo yum update -y
